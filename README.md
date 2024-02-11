@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohith reddy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India and full stack enthusiastic.</h3>
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently focusing on backend technologies.
 - 📫 How to reach me **samreddyrohith@gmail.com**
 - 👊 I'm currently open for: Internship opportunities!.
 - 👨‍💻 All of my projects are available at : [My Github](https://github.com/RohithReddy-45)
