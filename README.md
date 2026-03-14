@@ -7,7 +7,6 @@
 - 👨‍💻 All of my projects are available at : [My Github](https://github.com/RohithReddy-45)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRohithReddy-45%2FRohithReddy-45&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-reddy45/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samreddyrohith@gmail.com)
 [![Github](https://img.shields.io/github/followers/RohithReddy-45?label=Follow&style=social)](https://github.com/Rohithreddy-45)
