@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently focusing on backend technologies.
 - 📫 How to reach me **samreddyrohith@gmail.com**
-- 👊 I'm currently open for: Internship opportunities!.
 - 👨‍💻 All of my projects are available at : [My Github](https://github.com/RohithReddy-45)
 
 
