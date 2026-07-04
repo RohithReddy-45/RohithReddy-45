@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="https://commit-history.com/RohithReddy-45">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/RohithReddy-45?theme=dark" />
+      <img alt="RohithReddy-45's commit history" src="https://commit-history.com/embed/RohithReddy-45" />
+    </picture>
+  </a>
+</div>
+
 <h1 align="center">Hi 👋, I'm Rohith reddy</h1>
 <h3 align="center">A passionate frontend developer from India and full stack enthusiastic.</h3>
 
@@ -32,5 +41,3 @@
   <img alt="css" src="https://img.shields.io/badge/-CSS3-1172B8?style=flat-square&logo=css&logoColor=white" />
   <img alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
-
-<div> <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohithReddy-45&show_icons=true&locale=en&layout=compact" alt="RohithReddy-45" />
