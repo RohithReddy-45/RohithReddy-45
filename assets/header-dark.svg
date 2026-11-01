@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1012" height="340" viewBox="0 0 1012 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Rohith Reddy — Full Stack Developer</title>
+  <desc id="desc">Full Stack Developer from India. Web applications, backend APIs, and mobile apps. An isometric desk illustration shows a code editor, keyboard, coffee, and a small plant.</desc>
+  <style>
+    @media (max-width: 480px) {
+      .role-pill { width: 360px; height: 48px; }
+      .role-label { font-size: 32px; transform: translateY(6px); }
+      .country, .fine-print, .masthead { display: none; }
+    }
+  </style>
+  <rect width="1012" height="340" rx="24" fill="#151a18"/>
+  <path d="M48 50H964" stroke="#303d36"/>
+  <circle cx="53" cy="29" r="4" fill="#b4e6d0"/>
+  <g class="masthead" font-family="'Geist Mono', monospace" font-size="12" letter-spacing="2" fill="#a0ada5">
+    <text x="68" y="33">ROHITH / WORKSPACE</text>
+    <text x="964" y="33" text-anchor="end">WEB / API / MOBILE</text>
+  </g>
+  <g font-family="'Geist', 'DejaVu Sans', sans-serif">
+    <text x="48" y="143" fill="#f0f2ed" font-size="64" font-weight="600" letter-spacing="-3">Rohith Reddy<tspan fill="#b4e6d0">.</tspan></text>
+    <text x="50" y="187" fill="#a0ada5" font-size="24">Web apps, APIs, and mobile.</text>
+    <rect class="role-pill" x="48" y="225" width="190" height="36" rx="8" fill="#253a30"/>
+    <text class="role-label" x="64" y="248" fill="#b4e6d0" font-size="15">Full Stack Developer</text>
+    <text class="country" x="256" y="248" fill="#a0ada5" font-size="15">Based in India</text>
+  </g>
+  <path d="M648 82V280" stroke="#303d36" stroke-dasharray="3 7"/>
+  <ellipse cx="837" cy="300" rx="111" ry="10" fill="#303d36" opacity=".45"/>
+  <g stroke="#52745f" stroke-width="1.5" stroke-linejoin="round">
+    <path d="M718 220V272L725 276V224ZM818 276V311L825 307V272ZM947 207V262L954 258V203Z" fill="#3a5947"/>
+    <path d="M706 207L851 128L965 194L820 274Z" fill="#294235"/>
+    <path d="M706 207V217L820 284V274Z" fill="#20352a"/>
+    <path d="M820 274V284L965 204V194Z" fill="#1b2c23"/>
+    <path d="M817 215L838 203L862 217L840 230Z" fill="#385843"/>
+    <path d="M833 187V211L841 216V190Z" fill="#385843"/>
+  </g>
+  <g transform="matrix(1 .28 0 1 766 75)">
+    <rect width="142" height="96" rx="7" fill="#385843" stroke="#52745f" stroke-width="1.5"/>
+    <rect x="5" y="5" width="132" height="86" rx="4" fill="#111d16"/>
+    <g fill="#749582">
+      <circle cx="14" cy="14" r="2"/><circle cx="22" cy="14" r="2"/><circle cx="30" cy="14" r="2"/>
+    </g>
+    <path d="M10 23H132" stroke="#385843"/>
+    <g stroke-width="3" stroke-linecap="round">
+      <path d="M17 38H49M17 75H38" stroke="#749582"/>
+      <path d="M26 50H77M26 62H96" stroke="#b4e6d0"/>
+      <path d="M87 50H113M48 75H82" stroke="#385843"/>
+      <path d="M104 60V65" stroke="#b4e6d0"/>
+    </g>
+  </g>
+  <g transform="matrix(1 .55 -1 .55 812 195)">
+    <rect width="48" height="58" rx="4" fill="#3d5a47" stroke="#52745f" stroke-width="1.5"/>
+    <path d="M8 8H40V40H8ZM16 8V40M24 8V40M32 8V40M8 16H40M8 24H40M8 32H40" stroke="#52745f" stroke-width="1"/>
+    <rect x="8" y="46" width="32" height="5" rx="1.5" fill="#52745f"/>
+  </g>
+  <g stroke="#52745f" stroke-width="1.5">
+    <path d="M936 183C953 177 953 197 936 194" stroke-width="3"/>
+    <path d="M915 179V197C915 205 938 205 938 197V179" fill="#a5b7a9"/>
+    <ellipse cx="926.5" cy="179" rx="11.5" ry="6" fill="#a5b7a9"/>
+    <ellipse cx="926.5" cy="179" rx="8" ry="3.5" fill="#73533c" stroke="none"/>
+  </g>
+  <path d="M924 164C919 158 931 155 926 149" stroke="#749582" stroke-width="1.5" stroke-linecap="round" opacity=".65"/>
+  <g>
+    <path d="M727 175L730 191Q739 197 748 191L751 175Z" fill="#a5b7a9"/>
+    <ellipse cx="739" cy="175" rx="12" ry="5" fill="#385843"/>
+    <path d="M739 175V144M739 164L728 153M739 158L750 145" stroke="#83b89b" stroke-width="2" stroke-linecap="round"/>
+    <path d="M738 153C725 152 726 141 726 141C738 141 740 148 738 153ZM740 154C752 154 757 141 757 141C744 139 739 146 740 154ZM739 145C730 137 736 126 736 126C746 132 746 141 739 145Z" fill="#83b89b"/>
+  </g>
+  <g class="fine-print" font-family="'Geist Mono', monospace" font-size="12" fill="#a0ada5">
+    <text x="48" y="306">React · TypeScript · Node.js</text>
+  </g>
+</svg>
