@@ -1,43 +1,76 @@
-<div align="center">
-  <a href="https://commit-history.com/RohithReddy-45">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/RohithReddy-45?theme=dark" />
-      <img alt="RohithReddy-45's commit history" src="https://commit-history.com/embed/RohithReddy-45" />
-    </picture>
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <img src="./assets/header-light.svg" alt="Rohith Reddy. Frontend developer from India, exploring what happens behind the interface." width="100%" />
+</picture>
 
-<h1 align="center">Hi 👋, I'm Rohith reddy</h1>
-<h3 align="center">A passionate frontend developer from India and full stack enthusiastic.</h3>
+<p align="center">
+  <a href="https://rohith-reddy.vercel.app/"><b>Portfolio</b></a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/rohith-reddy45/">LinkedIn</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:samreddyrohith@gmail.com">Email</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/RohithReddy-45?tab=repositories">All projects</a>
+</p>
 
-- 🌱 I’m currently focusing on backend technologies.
-- 📫 How to reach me **samreddyrohith@gmail.com**
-- 👨‍💻 All of my projects are available at : [My Github](https://github.com/RohithReddy-45)
+## A little context
 
+I build web and mobile interfaces with React, Next.js, and React Native. I like projects that make something easier to use, whether that is finding a course or saving an image from a webpage.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-reddy45/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samreddyrohith@gmail.com)
-[![Github](https://img.shields.io/github/followers/RohithReddy-45?label=Follow&style=social)](https://github.com/Rohithreddy-45)
+Right now, I’m spending more time on the backend: APIs, databases, and the pieces that turn an interface into a working product.
 
-### ⚙️ Tech Stack
+## A few things I’ve built
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-58C4DC?style=flat-square&logo=react&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/-ReactNative-58C4DC?style=flat-square&logo=react&logoColor=white" />
-  <img alt="expo" src="https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo&logoColor=white" />
-  <img alt="NextJs" src="https://img.shields.io/badge/-Next.js-0A0A0A?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="tailwind" src="https://img.shields.io/badge/-TailwindCSS-44A8B3?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-FFCA28?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="mysql" src="https://img.shields.io/badge/-MySQL-375C70?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/-Python-FFD141?style=flat-square&logo=python&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-CSS3-1172B8?style=flat-square&logo=css&logoColor=white" />
-  <img alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RohithReddy-45/byte-tutorials">01 / Byte Tutorials</a></h3>
+      <p>A place to turn YouTube courses into structured learning, with progress tracking, timestamped notes, and a personal watch list.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Drizzle</code> <code>Turso</code></p>
+      <a href="https://byte-tutorials.vercel.app/">Explore the app ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RohithReddy-45/vscode-portfolio">02 / VS Code Portfolio</a></h3>
+      <p>A portfolio built around a familiar workspace: the editor. Made with React Native, Expo, and NativeWind.</p>
+      <p><code>React Native</code> <code>Expo</code> <code>NativeWind</code></p>
+      <a href="https://github.com/RohithReddy-45/vscode-portfolio">Open the source ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RohithReddy-45/drag-drop-image-extension">03 / Drag &amp; Drop Images</a></h3>
+      <p>A Chrome extension that saves images from webpages with a drag and drop. A small tool for a repeated task.</p>
+      <p><code>JavaScript</code> <code>Browser extension</code></p>
+      <a href="https://github.com/RohithReddy-45/drag-drop-image-extension">Open the source ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RohithReddy-45/stepinstyle">04 / Step in Style</a></h3>
+      <p>A shoe store built with the MERN stack, bringing the storefront and backend together in one project.</p>
+      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
+      <a href="https://step-in-style.netlify.app/">Visit the store ↗</a>
+    </td>
+  </tr>
+</table>
+
+## What I work with
+
+| Area | Tools |
+| :--- | :--- |
+| Web interfaces | React · Next.js · TypeScript · JavaScript · Tailwind CSS |
+| Mobile | React Native · Expo |
+| Backend &amp; data | Node.js · Express · MongoDB · MySQL |
+| Also in the toolkit | Redux · Styled Components · Python · Git · Figma |
+
+## Recent activity
+
+[View my commit history ↗](https://commit-history.com/RohithReddy-45)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/RohithReddy-45?theme=dark" />
+  <img src="https://commit-history.com/embed/RohithReddy-45" alt="Rohith Reddy’s GitHub commit history" width="100%" />
+</picture>
+
+<p align="center">
+  <sub>Have something interesting to build? <a href="mailto:samreddyrohith@gmail.com">Let’s talk.</a></sub>
 </p>

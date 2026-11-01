@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1012" height="340" viewBox="0 0 1012 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Rohith Reddy</title>
+  <desc id="desc">Frontend developer from India. A small illustration connects an interface to an API.</desc>
+  <rect width="1012" height="340" rx="24" fill="#f5f5ef"/>
+  <path d="M48 49H964" stroke="#d9ddce"/>
+  <circle cx="54" cy="28" r="4" fill="#507723"/>
+  <g font-family="'Geist Mono', monospace" font-size="12" letter-spacing="2" fill="#64685c">
+    <text x="68" y="32">ROHITH / PERSONAL SPACE</text>
+    <text x="964" y="32" text-anchor="end">WEB / MOBILE / SIDE PROJECTS</text>
+  </g>
+  <g font-family="'Geist', 'DejaVu Sans', sans-serif">
+    <text x="48" y="139" fill="#20221c" font-size="64" font-weight="600" letter-spacing="-3">Rohith Reddy<tspan fill="#507723">.</tspan></text>
+    <text x="50" y="184" fill="#64685c" font-size="24">Interfaces with a little more thought.</text>
+    <rect x="48" y="220" width="216" height="36" rx="8" fill="#e7ecd9"/>
+    <text x="64" y="243" fill="#507723" font-size="14">Frontend developer / India</text>
+    <text x="48" y="305" fill="#64685c" font-size="14">Currently exploring what happens behind the interface.</text>
+  </g>
+  <g stroke="#d9ddce" stroke-width="1.5">
+    <rect x="706" y="82" width="248" height="174" rx="16" fill="#ffffff"/>
+    <path d="M706 116H954"/>
+    <circle cx="724" cy="99" r="3" fill="#64685c" stroke="none"/>
+    <circle cx="736" cy="99" r="3" fill="#d9ddce" stroke="none"/>
+    <circle cx="748" cy="99" r="3" fill="#d9ddce" stroke="none"/>
+    <rect x="724" y="136" width="76" height="100" rx="8" fill="#e7ecd9"/>
+    <path d="M818 142H932M818 156H909M818 170H922" stroke-linecap="round"/>
+    <rect x="818" y="194" width="90" height="28" rx="6" fill="#507723" stroke="none"/>
+    <path d="M854 208H874M869 203L874 208L869 213" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M756 171L744 183L756 195M768 171L780 183L768 195" stroke="#507723" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="661" y="231" width="188" height="58" rx="12" fill="#ffffff"/>
+  </g>
+  <g font-family="'Geist Mono', monospace" font-size="13">
+    <text x="679" y="254" fill="#507723">GET</text>
+    <text x="714" y="254" fill="#20221c">/next-idea</text>
+    <text x="679" y="275" fill="#64685c">200 · keep building</text>
+  </g>
+</svg>
